@@ -1,2 +1,2 @@
 ai contorl fun
-test mode
+test mode rewrite mode
